@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-Benim adim Yasin.
-My Name is Yasin.
-Jestem Yasin.
-
+Benim adim Yasin. <br>
+My Name is Yasin. <br>
+Jestem Yasin. <br>
 <!--
 **cntknysn/cntknysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
