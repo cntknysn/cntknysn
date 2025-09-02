@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Benim adim Yasin. <br>
+<bold> Benim adim Yasin. </bold>  <br>
 My Name is Yasin. <br>
 Jestem Yasin. <br>
 <!--
